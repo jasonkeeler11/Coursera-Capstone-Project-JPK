@@ -1,2 +1,2 @@
 # Coursera-Capstone-Project-JPK
-New Capston Project Repository
+New Capstone Project Repository
